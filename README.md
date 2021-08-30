@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thomascondata
+- 👀 I’m interested in Data Analysis and Business Inteligence.
+- 🌱 I’m currently developing my knowledge in BI Tools (specially in Power BI) and SQL.
+- 📫 My e-mail is ferreyratho@gmail.com and my LinkedIn url is https://www.linkedin.com/in/thomasferreyra/
